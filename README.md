@@ -1,7 +1,7 @@
 # Guard Rebounding Analysis
 Utilizing data to identify the best &amp; most well-rounded guard rebounders in the NBA.
 
-[Code (click here)]()
+[Code (click here)](https://github.com/yashwantsathish/Guard-Rebounding-Analysis/blob/main/Guard%20Rebounding%20Analysis.ipynb)
 
 Methodology:
 1. Scraped 100+ data values from Basketball Reference data table (rebounding data) to Excel.  
